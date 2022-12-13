@@ -6,6 +6,7 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I co-created and currently co-manage the Paris Dauphine/Mines ParisTech/EHESS master <a href="https://www.psl.eu/en/education/masters-degree-institutions-organizations-economics-and-society">“Institutions, Organizations, Economics and Society”</a>.
 
-Organize your courses by years, topics, or universities, however you like!
+
+
