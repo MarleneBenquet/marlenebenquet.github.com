@@ -14,7 +14,7 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: fr/en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon
 url: https://marlenebenquet.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -54,7 +54,7 @@ github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: eeWFgLoAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-4516-1839 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
