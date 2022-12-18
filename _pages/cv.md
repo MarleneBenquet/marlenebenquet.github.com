@@ -1,8 +1,7 @@
 ---
 layout: page
 permalink: /v/
-title: cv
-description: Resume 2022.
+title: CV
 nav: true
 nav_order: 1
 ---
