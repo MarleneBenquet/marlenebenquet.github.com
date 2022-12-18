@@ -6,11 +6,11 @@ description: Resume 2022.
 nav: true
 ---
 
-## General Information
+## ==General Information==
 **Full Name**           Marlène Benquet\
 **Date of Birth**    17th February 1983\
 **Languages**           French, English
-
+---
 ##  Administrative, research and teaching responsibilities
 #### 2022 -
 - Coresponsible for the master's program in Institutions, Organizations, Economics, and Society (IOES), (Dauphine, Mines Paris Tech, EHESS).
