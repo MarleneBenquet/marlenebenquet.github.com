@@ -42,7 +42,7 @@ Member of the ANR CARFI (Carrières de la Finance) project, coordinated by Valé
 ####  2008 - 2011
 Coordinator, with Cédric Durand, of the interdisciplinary research network on large-scale retailing (RID) (MSH Paris Nord).
 
---
+---
 
 ## Education
 Habilitation à Diriger des Recherches
