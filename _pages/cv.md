@@ -12,9 +12,9 @@ nav: true
 **Languages**           French, English
 
 ###  Administrative, research and teaching responsibilities
-# 2022 -
+#### 2022 -
 - Coresponsible for the master's program in Institutions, Organizations, Economics, and Society (IOES), (Dauphine, Mines Paris Tech, EHESS).
-# Current
+#### Current
 - Representative of IRISSO within the House of Finance at Paris Dauphine.
 - Member of the editorial committee for the journal Revue Française de Socio-Economie.
 - Member of the editorial committee for the journal Travail, Genre et Sociétés.
@@ -23,17 +23,17 @@ nav: true
 Member of the national platform for research on end-of-life issues.
 
 ### Collective projects and funding
-# 2022 -
+####  2022 -
 Coordinator of the research project The politics of finance.
-# 2022 -
+####  2022 -
 Coordinator of the research project Finance and end of life.
-# 2018 - 2021
+####  2018 - 2021
 Coordinator of the research project Accumulating capital. Strategies of profit and dispossessive policies (funded by ILB/MSH/CED).
-# 2016 - 2021
+####  2016 - 2021
 Coordinator of the research project GICAP (Genèse de l'Investissement en CAPital) (France Invest).
-# 2011 - 2014
+####  2011 - 2014
 Member of the ANR CARFI (Carrières de la Finance) project, coordinated by Valérie Boussard.
-# 2008 - 2011
+####  2008 - 2011
 Coordinator, with Cédric Durand, of the interdisciplinary research network on large-scale retailing (RID) (MSH Paris Nord).
 ### Education
 Habilitation à Diriger des Recherches
@@ -54,5 +54,18 @@ Putting to work. Ethnography of professional relationships in a large company wi
 Institution: Philosophy
 Year: 2003 - 2007
 ### Research topics
-
+- Political sociology of finance and accumulation
+- Political orientations of finance
+- Financialization of work and firms
+- Financialization of life
 ### Research dissemination projects
+- Theatre, adaptation of Encaisser. Immersion investigation in large-scale retailing and Les Damnées de la caisse
+Institution: Pièce Points de bascule, by Sarah Pèpe, Manufacture des Abbesses
+- Comic strip, adaptation of La finance autoritaire. Toward the end of neoliberalism
+Institution: "Finance, aux origines du Brexit" Fabien Roché, Théo Bourgeron, La Revue Dessinée n°36
+- Comic strip, adaptation of the book Encaisser. Immersion investigation in large-scale retailing
+Institution: Anne Simon, Casterman edition
+Year: 2016
+- Documentary, history of financialization in France
+Institution: Du Fer à la finance. L'empire Wendel, with Patrick Benquet
+Year: 2015
