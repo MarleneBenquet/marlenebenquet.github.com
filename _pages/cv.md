@@ -4,6 +4,7 @@ permalink: /v/
 title: cv
 description: Resume 2022.
 nav: true
+nav_order: 1
 ---
 
 ## General Information
