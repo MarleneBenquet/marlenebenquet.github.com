@@ -6,14 +6,15 @@ description: Resume 2022.
 nav: true
 ---
 
-### General Information
-**Full Name**           Marlène Benquet
-**Date of Birth**    17th February 1983
+## General Information
+**Full Name**           Marlène Benquet\
+**Date of Birth**    17th February 1983\
 **Languages**           French, English
 
-###  Administrative, research and teaching responsibilities
+##  Administrative, research and teaching responsibilities
 #### 2022 -
 - Coresponsible for the master's program in Institutions, Organizations, Economics, and Society (IOES), (Dauphine, Mines Paris Tech, EHESS).
+
 #### Current
 - Representative of IRISSO within the House of Finance at Paris Dauphine.
 - Member of the editorial committee for the journal Revue Française de Socio-Economie.
@@ -22,7 +23,7 @@ nav: true
 - Louis Bachelier Fellow.
 Member of the national platform for research on end-of-life issues.
 
-### Collective projects and funding
+## Collective projects and funding
 ####  2022 -
 Coordinator of the research project The politics of finance.
 ####  2022 -
@@ -35,7 +36,7 @@ Coordinator of the research project GICAP (Genèse de l'Investissement en CAPita
 Member of the ANR CARFI (Carrières de la Finance) project, coordinated by Valérie Boussard.
 ####  2008 - 2011
 Coordinator, with Cédric Durand, of the interdisciplinary research network on large-scale retailing (RID) (MSH Paris Nord).
-### Education
+## Education
 Habilitation à Diriger des Recherches
 
 Institution: Université Paris Nanterre, Paris, France
@@ -53,12 +54,13 @@ Putting to work. Ethnography of professional relationships in a large company wi
 
 Institution: Philosophy
 Year: 2003 - 2007
-### Research topics
+## Research topics
 - Political sociology of finance and accumulation
 - Political orientations of finance
 - Financialization of work and firms
 - Financialization of life
-### Research dissemination projects
+
+## Research dissemination projects
 - Theatre, adaptation of Encaisser. Immersion investigation in large-scale retailing and Les Damnées de la caisse
 Institution: Pièce Points de bascule, by Sarah Pèpe, Manufacture des Abbesses
 - Comic strip, adaptation of La finance autoritaire. Toward the end of neoliberalism
