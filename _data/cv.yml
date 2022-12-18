@@ -8,7 +8,6 @@
     - name: Languages
       value: French, English
 
-
 -  title: Responsabilités administratives, de recherche et d’enseignement
   type: time_table
   contents:
@@ -51,8 +50,6 @@
       items: 
         - Coordinatrice avec Cédric Durand du réseau interdisciplinaire d’étude de la grande distribution (RID) (MSH Paris Nord) 
 
-
-
 - title: Formation
   type: time_table
   contents:    
@@ -72,47 +69,18 @@
       institution: philosophy
       year: 2003 - 2007
 
-#- title: Open Source Projects
-#  type: time_table
-#  contents:
-#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#      year: 2015-now
-#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Thèmes de recherche 
   type: nested_list
   contents:
     - title: Political sociology of finance and accumulation
-#      items: 
-#        - Description 1.
-#        - Description 2.
-    - title: Political orientations of finance
-#      items:
-#        - Description 1.
-#        - Description 2.
-    - title: Financialization of work and firms
-#      items:
-#        - Description 1.
-#        - Description 2.
-    - title: Financialization of life 
-#      items:
-#        - Description 1.
-#        - Description 2.
 
-  
 - title: Projets de diffusion de la recherche 
   type: time_table
   contents:
     - title: Théâtre, adaptation de Encaisser. Enquête en immersion dans la grande distribution et Les Damnées de la caisse 
       institution: Pièce Points de bascule, de Sarah Pèpe, Manufacture des Abbesses
       year: 2022 
-#      description:
-#        - Description 1.
-#        - Description 2.
-#        - title: Description 3.
-#          contents:
-#            - Sub-description 1.
-#            - Sub-description 2.
+
     - title: Bande dessinée, adaptation de La finance autoritaire. Vers la fin du néolibéralisme
       institution: "Finance, aux origines du Brexit" Fabien Roché, Théo Bourgeron, La Revue Dessinée n°36
       year: 2022
