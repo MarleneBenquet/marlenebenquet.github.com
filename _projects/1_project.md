@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alternative finance and accumulation
-description: a project with a background image
+description: examining the new ways of accumulating capital
 img: assets/img/projects_img/41k6iuUuRML.jpg
 importance: 1
 category: work
@@ -13,4 +13,4 @@ category: work
 - Practices of financial evaluation
 - Financial ethno-accountability
 
-*Outreach link:* https://www.film-documentaire.fr/4DACTION/w_fiche_film/43578_0
+<a href="https://www.film-documentaire.fr/4DACTION/w_fiche_film/43578_0"> <i>Outreach link</i></a>
