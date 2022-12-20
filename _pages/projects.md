@@ -5,7 +5,7 @@ permalink: /projects/
 description: Ongoing projects.
 nav: true
 display_categories: [work]
-horizontal: true
+horizontal: false
 nav_order: 2
 ---
 <div class="projects">
